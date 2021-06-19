@@ -1,4 +1,4 @@
-# RTX-BOT
+# RTX-BOT (europe)
 
 This bot scrapes the StockDrops discord for new links to RTX 3000 card drops and opens them automatically faster than any human could. This improves your queue position. The bot can also send you a notification if a new link is posted so you don't have to watch the discord all day.
 
