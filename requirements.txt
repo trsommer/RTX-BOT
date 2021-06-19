@@ -1,0 +1,3 @@
+chromedriver-py==89.0.4389.23
+requests==2.25.1
+selenium==3.141.0
