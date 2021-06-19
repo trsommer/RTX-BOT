@@ -38,6 +38,8 @@
 
 ## Setup
 
+Open config.py
+
 1.  add cards you want to open links for (e.g. rtx3080 and rtx3080ti)
 
    ```python
